@@ -59,5 +59,5 @@ console.log(arr)
 // const lastIndexOf = arr.lastIndexOf(10)
 // console.log(lastIndexOf);
 //join
-const join = arr.join(" ")
-console.log(join);
+// const join = arr.join(" ")
+// console.log(join);
