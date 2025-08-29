@@ -5,6 +5,11 @@ const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 
 //     return value > 10;
 // })
 // console.log(find);
+// const find1 = arr.find((num )=>{
+//     return num==8
+// })
+// console.log(find1)
+// console.log(arr.indexOf(find1))
 //filter method
 // const filter = arr.filter((value) => {
 //     return value > 10;
